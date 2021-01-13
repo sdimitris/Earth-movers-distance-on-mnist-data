@@ -1,4 +1,4 @@
-# Earth-mover-s-distance-on-mnist-data
+# Earth-mover's-distance-on-mnist-data
 Earth mover's distance implementation on mnist data using the pulp library of python for solving linear transportation problems
 
 ##
