@@ -7,4 +7,4 @@ Because the data is very heavy and the execution time is very long , this script
 
 You need to download the pulp,numpy libraries and the mnist data to run the script.
 # Execution instrtuction
-python search.py -d train-images.idx3-ubyte -q t10k-images.idx3-ubyte -s "size of subcluster" -l1 train-labels.idx1-ubyte -l2 t10k-labels-idx1-ubyte
+#### python search.py -d train-images.idx3-ubyte -q t10k-images.idx3-ubyte -s "size of subcluster" -l1 train-labels.idx1-ubyte -l2 t10k-labels-idx1-ubyte
